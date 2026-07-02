@@ -1,0 +1,9 @@
+sheets=1
+sheet[0]=模板
+merged=[]
+pictures=0
+row[0]=STRING:日期|NUMERIC:2020-01-01 01:01:01
+row[1]=STRING:总数|NUMERIC:2
+row[2]=STRING:名称|STRING:数字|STRING:时间
+row[3]=STRING:张三|NUMERIC:5.2|NUMERIC:2020-01-01 01:01:01
+row[4]=STRING:李四|NUMERIC:6.2|NUMERIC:2020-01-02 01:01:01

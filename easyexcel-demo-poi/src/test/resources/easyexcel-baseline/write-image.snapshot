@@ -1,0 +1,6 @@
+sheets=1
+sheet[0]=模板
+merged=[]
+pictures=7
+row[0]=STRING:byteArray|STRING:file|STRING:string|STRING:inputStream|STRING:url|STRING:writeCellDataFile
+row[1]=STRING:|STRING:|STRING:|STRING:|STRING:|STRING:额外的放一些文字

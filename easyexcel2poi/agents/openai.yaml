@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyExcel2POI"
+  short_description: "中文 TDD 强门禁迁移 EasyExcel 到 POI"
+  default_prompt: "使用 $easyexcel2poi 将这个 Java Maven 服务从 EasyExcel 迁移到 Apache POI；严格遵循 references/strict-checklist.md，保持业务逻辑不变，用测试证明 workbook 语义一致，并以 scripts/migration_gate.py 收尾。"

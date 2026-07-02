@@ -1,0 +1,8 @@
+sheets=1
+sheet[0]=模板
+merged=[]
+pictures=0
+row[0]=STRING:字符串标题|STRING:日期标题|STRING:数字标题
+row[1]=STRING:字符串0|NUMERIC:2020-01-01 01:01:01|NUMERIC:1
+row[2]=STRING:字符串1|NUMERIC:2020-01-02 01:01:01|NUMERIC:2
+row[3]=STRING:字符串2|NUMERIC:2020-01-03 01:01:01|NUMERIC:3
